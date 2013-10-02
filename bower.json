@@ -1,0 +1,22 @@
+{
+  "name": "karmateste",
+  "version": "0.0.0",
+  "authors": [
+    "oigui <oigui@hotmail.com>"
+  ],
+  "description": "Testes com Karma e Bower",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/libs",
+    "test",
+    "tests"
+  ],
+	"dependencies": {
+		"angular": "~v1.2.0-rc.2",
+		"angular-resource": "~v1.2.0-rc.2",
+		"angular-mocks": "~v1.2.0-rc.2"
+	}
+}
